@@ -7,7 +7,7 @@
 - - - 
 
   ![image] (https://github.com/YourKlc/StudentCoporationManage/raw/master/Picture/1.png) ;
- ;
+  
 - - -
   ![image] (https://github.com/YourKlc/StudentCoporationManage/raw/master/Picture/2.png)  
 - - -
