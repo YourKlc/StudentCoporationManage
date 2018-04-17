@@ -5,7 +5,7 @@
 <b>纯命令行写的学生社团管理系统,欢迎指正,欢迎修改!</b>
  
 - - - 
-  ![image](https://github.com/YourKlc/StudentCoporationManage/raw/master/Picture/1.png) ;
+  ![image](https://github.com/YourKlc/StudentCoporationManage/raw/master/Picture/1.png) 
 - - -
   ![image](https://github.com/YourKlc/StudentCoporationManage/raw/master/Picture/2.png)  
 - - -
